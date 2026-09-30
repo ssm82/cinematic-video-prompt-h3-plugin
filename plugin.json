@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cinematic-video-prompt-h3",
+  "version": "1.0.0",
+  "description": "Cinematic video prompt vocabulary pack adapted for MiniMax H3 video generation. Three Agent Skills: the main prompt-writing skill (H3 field schema + 700+ cinematography terms translated into H3's natural-language shot-description grammar across 10 reference files), a character-sheet-lite skill for I2VA/Ref2VA character consistency, and an oriental-scene-lite skill for Wuxia and Eastern-aesthetic scenes. Pure-skills plugin; no MCP servers.",
+  "author": {
+    "name": "Serge",
+    "url": "https://github.com/ssm82"
+  },
+  "homepage": "https://github.com/ssm82/cinematic-video-prompt-h3-plugin#readme",
+  "repository": "https://github.com/ssm82/cinematic-video-prompt-h3-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video-generation",
+    "minimax",
+    "minimax-h3",
+    "cinematography",
+    "prompt-writing",
+    "t2va",
+    "i2va",
+    "fl2va",
+    "l2va",
+    "ref2va",
+    "camera",
+    "lighting",
+    "composition",
+    "sound-design",
+    "facs",
+    "editing"
+  ]
+}

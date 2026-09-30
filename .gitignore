@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*~
+
+# Backups
+*.bak
+*.tmp
+*.zip
+*.tar.gz
+
+# Generated / working files
+*.local.md
+_scratch/
+NOTES.md
+TODO.md
+
+# Test artefacts
+.coverage
+htmlcov/
+.pytest_cache/
